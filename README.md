@@ -85,4 +85,8 @@ The company seeks to optimize its pricing strategies and operational efficiency.
 
 - **Language**: R
 - **Libraries**: `dplyr`, `ggplot2`, `stats`
-- **Output**: Visuals, CSVs, and statistical summaries
+- **Output**:
+
+ ![Image Alt](https://github.com/PTanish01/Retail-Sales-and-Customer-Behavior-Analysis/blob/main/Screenshot%202025-06-15%20200715.jpg)
+  ![Image Alt](https://github.com/PTanish01/Retail-Sales-and-Customer-Behavior-Analysis/blob/main/Screenshot%202025-06-15%20200753.jpg)
+  ![Image Alt](https://github.com/PTanish01/Retail-Sales-and-Customer-Behavior-Analysis/blob/main/Screenshot%202025-06-15%20200928.jpg)
